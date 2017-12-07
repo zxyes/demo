@@ -13,3 +13,4 @@ $ git status  显示仓库当前状态
 $ git diff  查看修改内容
 $ git log命令显示从最近到最远的提交日志
 $ git rm <>  删除文件
+$ git push origin master
